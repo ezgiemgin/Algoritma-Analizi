@@ -1,0 +1,12 @@
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\obj\Debug\Sorting.frmSorting.resources
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Barış ALTUN\Desktop\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Ezgi-PC\Desktop\Grup 27_Uygulama 2\Algoritma Analizi\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Ezgi-PC\Desktop\Grup 27_Uygulama 2\Algoritma Analizi\Sorting\obj\Debug\Sorting.exe
+C:\Users\Ezgi-PC\Desktop\Grup 27_Uygulama 2\Algoritma Analizi\Sorting\obj\Debug\Sorting.pdb
